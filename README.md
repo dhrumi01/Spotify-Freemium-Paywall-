@@ -47,7 +47,7 @@ pip install pandas numpy matplotlib scipy
 jupyter notebook A_B_testing.ipynb
 ```
 
-Run the cells in order. Cell 5 generates a 2×2 results dashboard and saves it as `spotify_ab_test_dashboard.png`.
+Run the cells in order. Cell 5 generates a 2×2 results dashboard and saves it as `spotify_ab_test_dashboard png.png`.
 
 ---
 
