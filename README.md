@@ -9,7 +9,7 @@ The assumption is that frustration = upgrades. But I wanted to test whether that
 ## What this project does
 
 It simulates a full A/B test where:
-- **Control group** gets the current experience — unlimited skips
+- **Control group** gets the current experience unlimited skips
 - **Treatment group** gets capped at 6 skips per hour
 
 I split users into three segments based on how much they listen per day, ran two-proportion z-tests on each one (with Bonferroni correction since we're testing three groups simultaneously), modeled the revenue impact, and wrote up a recommendation based on the data.
