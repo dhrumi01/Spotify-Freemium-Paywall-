@@ -20,7 +20,7 @@ The simulation parameters aren't made up they're calibrated to Spotify's actual 
 
 ## The finding that surprised me
 
-Power users — the people listening 4+ hours a day don't upgrade when you limit their skips. **They leave.**
+Power users the people listening 4+ hours a day don't upgrade when you limit their skips. **They leave.**
 
 Churn spiked +17 percentage points in that segment, and conversion actually *dropped*. These are Spotify's most engaged free-tier users, and they have options. A hard paywall pushed them out the door rather than toward a subscription.
 
